@@ -18,5 +18,7 @@
     <p>争渡，争渡</p>
     <p>惊起一滩鸥鹭</p>
 
+    <script src='http://github.com/nodejs/node'></script>
+
 
    
